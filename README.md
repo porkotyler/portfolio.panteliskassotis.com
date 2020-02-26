@@ -1,5 +1,5 @@
 # My Web Portfolio
-This is what I use to showcase my projects. It's made to look like an MacBook desktop with files and everything.
+This is what I use to showcase my projects. It's made to look like a MacBook desktop.
 
 ## Getting Started
 
