@@ -1,4 +1,6 @@
-# My Web Portfolio
+![](https://i.imgur.com/PPjAiWs.png)
+
+# My Web Portfolio - MacBook Desktop (Website)
 This is what I use to showcase my projects. It's made to look like a MacBook desktop.
 
 ## Getting Started
